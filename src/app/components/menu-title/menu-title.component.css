@@ -1,0 +1,23 @@
+.container_menu-title{
+    color:#FFFFFF;
+    /*border-top: 1px solid grey;*/
+}
+
+.container_menu-title > h1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 135px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+}
+
+.container_menu-title > hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+   
+}
+
+.container_menu-title > h1 > span{
+    color:#a269ff;
+}
